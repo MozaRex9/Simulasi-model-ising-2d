@@ -1,7 +1,7 @@
 # Simulasi Model Ising 2D Menggunakan Algoritma Metropolis
 
 Repository ini dibuat sebagai tugas mata kuliah **Fisika Komputasi**. Proyek ini mengimplementasikan **Model Ising 2 Dimensi (2D)** menggunakan **Algoritma Metropolis (Monte Carlo)** untuk mempelajari fenomena **transisi fasa**, **magnetisasi spontan**, dan perubahan perilaku sistem pada berbagai kondisi suhu.
-
+https://mozarex9.github.io/Simulasi-model-ising-2d/
 ## Anggota Kelompok
 
 | No | Nama | NIM |
